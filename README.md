@@ -1,7 +1,7 @@
 # Project Dawkins
 ---
 
-+ **patended**: Meme Analysis X
++ **patented**: Meme Analysis X
 
 + image clusters
 
